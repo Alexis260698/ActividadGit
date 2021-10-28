@@ -1,0 +1,12 @@
+git diff <source-branch> <target-branch>
+ver los conflictos que hay entre ramas antes de fusionarlas
+
+git diff
+ver una lista de todos los conflictos presentes
+
+
+GitFork
+Crear o partir de un proyecto ya existente, tomando su código fuente 
+es utilizado para permitir a los desarrolladores a contribuir en proyecto de forma segura, 
+porque los cambios que realicen no modificaran el repositorio inicial
+
